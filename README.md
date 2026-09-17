@@ -1,3 +1,4 @@
+
 # SeatBook — Mini BookMyShow
 
 SeatBook is a simple seat booking web application inspired by movie ticket booking platforms like BookMyShow.
@@ -162,3 +163,4 @@ Some features that could be added in the future include:
 * Automated concurrency testing
 * More advanced filtering and sorting
 * Deployment and production optimisation
+
